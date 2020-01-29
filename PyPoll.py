@@ -65,6 +65,9 @@ with open(file_to_load) as election_data:
             winning_candidate = candidate  
     
     winning_candidate_summary = (
+        f"\nElection Result\n"
+        f"-------------------------\n"
+        f"Total Votes: {total_votes}\n"
         f"-------------------------\n"
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
@@ -86,10 +89,9 @@ election_data.close()
 #outfile = open(file_to_save,"w")
 with open(file_to_save,"w") as txt_file:
 
-# Write some data to the file
-#outfile.write("Hello World")
-    txt_file.write("Hello World")
-    txt_file.write("Arapahoe, Denver, Jefferson")
+    # Write some data to the file
+    txt_file.write(winning_candidate_summary)
+
 #outfile.close()
 txt_file.close()
 
