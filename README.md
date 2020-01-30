@@ -38,4 +38,4 @@ The analysis of the election based on counties
 - The county votes:
   - Jefferson county contributed 10.5% of the vote with 38,855 votes
   - Denver county contributed 82.8% of the vote with 306,055 votes
-   -Arapahoe county contributed 6.7% of the vote with 24,801 votes
+  - Arapahoe county contributed 6.7% of the vote with 24,801 votes
