@@ -28,5 +28,14 @@ The analysis of the election show that:
   - Diana DeGette received 73.81% fo the vote with 272,892 votes
 
 ## Challenge Overview
-
+The analysis of the election based on counties
+  - The number of votes that were cast from each county 
+  - The percentage of votes each county contributed to the election
+  - The largest turnout county
+  
 ## Challenge Summary
+- The largest county turnout was Denver
+- The county votes:
+  - Jefferson county contributed 10.5% of the vote with 38,855 votes
+  - Denver county contributed 82.8% of the vote with 306,055 votes
+   -Arapahoe county contributed 6.7% of the vote with 24,801 votes
