@@ -1,6 +1,5 @@
 # Election_Analysis
 
-## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election
 
 1. Calculate the total number of votes cast
@@ -27,15 +26,18 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette received 73.81% fo the vote with 272,892 votes
 
-## Challenge Overview
+## Overview
 The analysis of the election based on counties
   - The number of votes that were cast from each county 
   - The percentage of votes each county contributed to the election
   - The largest turnout county
   
-## Challenge Summary
+## Discussion
 - The largest county turnout was Denver
 - The county votes:
   - Jefferson county contributed 10.5% of the vote with 38,855 votes
   - Denver county contributed 82.8% of the vote with 306,055 votes
   - Arapahoe county contributed 6.7% of the vote with 24,801 votes
+
+---
+The analysis is in [python code](https://github.com/plin2204/Election_Analysis/blob/master/PyPoll_Challenge.py), and [election_analysis.txt](https://github.com/plin2204/Election_Analysis/blob/master/election_analysis.txt).
